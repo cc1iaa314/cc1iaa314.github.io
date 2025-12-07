@@ -1,55 +1,92 @@
-# Data Scientist
+# Quantitative Research Intern
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+Hi! I’m Aoran Chen, a graduate student in **Data Analytics & Computational Social Science (DACSS)** at the University of Massachusetts Amherst.  
+I am passionate about **quantitative research, statistical modeling, machine learning, and data-driven decision making**.  
+I enjoy applying computational and statistical tools to uncover patterns, build predictive models, and solve practical problems in finance, social science, and engineering.
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## 🔧 Technical Skills
+**Python**, **R**, **SQL**, **MATLAB**, **Excel**  
+Machine Learning · Statistical Modeling · Time Series Analysis · Optimization · Data Visualization  
+Quantitative Finance · Simulation · Experimental Design  
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## 🎓 Education
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+### **University of Massachusetts Amherst**
+**M.S. in Data Analytics & Computational Social Science**  
+**Jul.2025 – Dec.2025 (expected)** · Amherst, MA  
+Relevant Courses:  
+Data Science Fundamentals · Research Design · Introduction to Quantitative Analysis ·  
+Data Engineering · Data Visualization and Communication · Computational Text Analysis ·  
+Advanced Quantitative Methods
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### **Shanghai Jiao Tong University**
+**B.S. in Statistics**  
+**Sept.2020 – Jun.2024** · Shanghai, China  
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Relevant Courses:  
+Probability Theory · Mathematical Statistics · Multivariate Statistics · Regression Analysis and Linear Equations ·  
+Statistical Learning · Time Series Analysis · Bayesian Statistics · Mathematical Finance ·  
+Numerical Analysis and Programming · Scientific Computing  
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+Honors:  
+- Three Good Student Award (2022)  
+- Outstanding Class Leader (2021)  
+- Zhang Naixin Inspirational Scholarship (2020, 2021, 2022)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## 💼 Internship Experience
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### **RedWall Taihe Private Fund — Quantitative Research Intern**  
+**Mar.2025 – Aug.2025 · Shanghai, China**  
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Improved key components of a live-trading limit-up strategy, including stock selection universe, intraday order-placement signals, exit rules, and queuing algorithms, resulting in notable annualized performance gains and successful live deployment.  
+- Independently designed and implemented the order-placement logic for the strategy, including stock screening, order/cancellation signals, and exit mechanism. Developed a capital-constrained backtesting framework to validate strategy effectiveness.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### **Heze Hedge Fund — Quantitative Research Intern**  
+**Jun.2024 – Nov.2024 · Shanghai, China**
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+- Reproduced and innovated alpha factors from brokerage research reports using daily data, Level-2 market data, minute-level data, and tick data; conducted factor selection, backtesting, and factor library maintenance.  
+- Analyzed Level-2-based daily limit-up features and performed grouped return studies. Optimized screening-rule parameters via **Optuna** (Sharpe ratio maximization) and applied **Genetic Programming** to discover feature combinations.  
+- Built market-status evaluation indicators and analyzed investment performance under different market regimes to enhance timing strategies.  
+- Researched multi-day K-line pattern–based stock-selection strategies; used tick data to determine execution ordering and applied Optuna to optimize coefficients, opening conditions, and position sizing.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+### **Fanatics — E-Commerce Operations Intern**  
+**Jun.2023 – Aug.2023 · Shanghai, China**
+
+- Processed and analyzed sales data using Excel to identify performance drivers and support strategic decision-making.  
+- Assisted in planning sales strategies including pricing, promotional campaigns, and performance targets.
+
+
+## 📊 Research Projects
+
+### **High-Dimensional Precision Matrix Estimation (Python)**  
+**Nov.2023 – May.2024 · Project Leader**
+
+- Reproduced a penalized quadratic-loss ADMM algorithm in Python to improve computational efficiency and benchmarked performance against the R implementation.  
+- Explored the use of GPU-accelerated third-party Python libraries to improve scalability for high-dimensional precision matrix estimation.
+
+### **Market Group Dynamics Coordination Mechanism of Brand Prototype Formation**  
+**Mar.2023 – Apr.2024 · Project Leader**
+
+- Developed a multivariate attitude-change model using stochastic evolution partial differential equations to characterize randomness in attitude changes and the evolution of internal system structures.  
+- Conducted numerical integration and Python-based simulations to analyze dynamic characteristics and statistical distributions.  
+- Led the team in producing a research paper; the project was awarded **Outstanding Project (Top 10%)** in the SJTU Undergraduate Research Program.
+
+
+### **Multivariate Analysis and Predictive Modeling on Wine Dataset**  
+**May.2023 – Jun.2023 · Project Leader**
+
+- Performed outlier detection and exploratory data visualization. Applied Best Subset Selection, Ridge Regression, LASSO, and Principal Component Regression to identify key predictors.  
+- Conducted clustering analysis and compared model performance using K-fold Cross-Validation and Leave-One-Out Cross-Validation.  
+- Built regression models (e.g., Decision Tree Regression) and classification models (e.g., Logistic Regression, SVM, Random Forest) to predict wine quality. Evaluated group differences using t-tests and ANOVA.
+
+
+## 🌟 Leadership & Activities
+
+### **Class Monitor · Shanghai Jiao Tong University**
+- Organized and coordinated class activities, including meetings and social practice.  
+- Collected student feedback and assisted in resolving academic and administrative issues.
+
+### **Minister of Culture and Sports · SJTU Mathematical Sciences Student Union**
+- Planned and organized cultural and sports events, including welcome and graduation activities.  
+- Led event publicity, including poster design and promotional content.
